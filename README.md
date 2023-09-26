@@ -1,4 +1,5 @@
-# Git
-A simple Git repository for learning.
+# Practice Project
+A simple Git repository for learning. This is just a practice project.
+
 
 
